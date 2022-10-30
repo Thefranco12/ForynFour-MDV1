@@ -3,7 +3,7 @@
 // JANGAN DIHAPUS KALAU MAU DITAMBAHIN
 
 // NUMBER
-global.owner = ['62895327934887'] 
+global.owner = ['6289524289281'] 
 global.mods = [] 
 global.prems = [] 
 global.kontak = ['62895327934887']
